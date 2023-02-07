@@ -28,7 +28,7 @@ namespace TestFor
 
         }
 
-        public string toString()
+        public string GetToString()
         {
             return "Car{" +
                     "Brand='" + Brand + '\'' +
