@@ -48,26 +48,7 @@ namespace TestFor
 
             return cars.Count;
         }
-        public  List<Car> EnterCarDetail(string brand, string model, int year, double price, string color, int miles, string registrationNumber)
-        {
-            CarFleet carFleet = new CarFleet();
-            Console.WriteLine("Enter first car detail ");
-            Console.Write("What is car brand ");
-            brand = Console.ReadLine();
-            Console.Write("What is car model ");
-            model = Console.ReadLine();
-            Console.Write("What is car year ");
-            year = Convert.ToInt32(Console.ReadLine());
-            Console.Write("What is car price ");
-            price = Convert.ToDouble(Console.ReadLine());
-            Console.Write("What is car color ");
-            color = Console.ReadLine();
-            Console.Write("What is car miles ");
-            miles = Convert.ToInt32(Console.ReadLine());
-            Console.Write("What is car registrationNumber ");
-            registrationNumber = Console.ReadLine();
-            return carFleet.AddCar(brand, model, year, price, color, miles, registrationNumber);
-        }
+        
 
     }
 
