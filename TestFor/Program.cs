@@ -19,11 +19,11 @@ EnterCarDetails();
 carFleet.Modify(new Car(brand, model, year, price, color, miles, registrationNumber));
 ShowAllCar();
 
-DeletingCar();  
+DeleteCar();  
 carFleet.Delete(new Car("BMW", "X5", 2020, 67350, "black", 12000, registrationNumber));
 ShowAllCar();
 
-DeletingCar();
+DeleteCar();
 carFleet.Delete(new Car("BMW", "X5", 2020, 67350, "black", 12000, registrationNumber));
 ShowAllCar();
 
@@ -50,7 +50,7 @@ void EnterCarDetails()
     registrationNumber = Console.ReadLine();
 }
 
-void DeletingCar()
+void DeleteCar()
 {
     Console.WriteLine("Enter car detail for deleting");
     Console.Write("What is car registrationNumber ");
