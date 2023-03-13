@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestForTest\\TestForTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestForTest\\TestForTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestForTest\\TestForTest.csproj",
+        "projectName": "TestForTest",
+        "projectPath": "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestForTest\\TestForTest.csproj",
+        "packagesPath": "C:\\Users\\ilhami.aktan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestForTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ilhami.aktan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.bwinparty.corp/artifactory/api/nuget/bpty-nuget-local": {},
+          "https://artifactory.bwinparty.corp/artifactory/api/nuget/nuget-public": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestFor\\TestFor.csproj": {
+                "projectPath": "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestFor\\TestFor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestFor\\TestFor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestFor\\TestFor.csproj",
+        "projectName": "TestFor",
+        "projectPath": "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestFor\\TestFor.csproj",
+        "packagesPath": "C:\\Users\\ilhami.aktan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ilhami.aktan\\source\\TestFor\\TestFor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ilhami.aktan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.bwinparty.corp/artifactory/api/nuget/bpty-nuget-local": {},
+          "https://artifactory.bwinparty.corp/artifactory/api/nuget/nuget-public": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

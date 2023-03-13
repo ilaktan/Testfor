@@ -1,0 +1,15 @@
+C:\Users\ilhami.aktan\source\TestFor\TestFor\bin\Debug\net6.0\TestFor.exe
+C:\Users\ilhami.aktan\source\TestFor\TestFor\bin\Debug\net6.0\TestFor.deps.json
+C:\Users\ilhami.aktan\source\TestFor\TestFor\bin\Debug\net6.0\TestFor.runtimeconfig.json
+C:\Users\ilhami.aktan\source\TestFor\TestFor\bin\Debug\net6.0\TestFor.dll
+C:\Users\ilhami.aktan\source\TestFor\TestFor\bin\Debug\net6.0\TestFor.pdb
+C:\Users\ilhami.aktan\source\TestFor\TestFor\obj\Debug\net6.0\TestFor.csproj.AssemblyReference.cache
+C:\Users\ilhami.aktan\source\TestFor\TestFor\obj\Debug\net6.0\TestFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilhami.aktan\source\TestFor\TestFor\obj\Debug\net6.0\TestFor.AssemblyInfoInputs.cache
+C:\Users\ilhami.aktan\source\TestFor\TestFor\obj\Debug\net6.0\TestFor.AssemblyInfo.cs
+C:\Users\ilhami.aktan\source\TestFor\TestFor\obj\Debug\net6.0\TestFor.csproj.CoreCompileInputs.cache
+C:\Users\ilhami.aktan\source\TestFor\TestFor\obj\Debug\net6.0\TestFor.dll
+C:\Users\ilhami.aktan\source\TestFor\TestFor\obj\Debug\net6.0\refint\TestFor.dll
+C:\Users\ilhami.aktan\source\TestFor\TestFor\obj\Debug\net6.0\TestFor.pdb
+C:\Users\ilhami.aktan\source\TestFor\TestFor\obj\Debug\net6.0\TestFor.genruntimeconfig.cache
+C:\Users\ilhami.aktan\source\TestFor\TestFor\obj\Debug\net6.0\ref\TestFor.dll
